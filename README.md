@@ -17,4 +17,4 @@
 - Creates green jobs for youth.  
 ## Your Role:  
 - Designed the M&E system (Kobo/Excel) to track impact.  
-- Linked grassroots actions to policy (e.g., waste ordinances).  
+- Linked grassroots actions to policy (e.g. waste ordinances).  
